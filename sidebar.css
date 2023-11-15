@@ -1,0 +1,230 @@
+.side-bar {
+  height: 100%;
+  width: 250px;
+  background-color: white;
+  position: fixed;
+  top: 0;
+  left: 0;
+  overflow-x: hidden;
+  padding-top: 20px;
+  cursor: pointer;
+  border: solid 1px rgb(194, 187, 187);
+}
+
+
+.home-icon {
+  width: 30px;
+  height: 40px;
+  margin-top: 40px;
+  margin-left: 10px;
+}
+
+.home-text {
+  display: inline-block;
+  margin-top: 50px;
+  margin-left: 30px;
+  font-size: 20px;
+  width: 500;
+  vertical-align: top;
+}
+
+.icon-2 {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  cursor: pointer;
+  margin-left: 30px;
+}
+
+.shorts-icon {
+  display:inline-block;
+  width: 30;
+  height: 40px;
+  margin-top: 10px;
+  margin-left: 10px;
+
+}
+
+.shorts-text {
+  display: inline-block;
+  vertical-align: top;
+  margin-left: 28px;
+  font-size: 20px;
+  width: 500;
+}
+
+.icon-3 {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: left;
+  margin-right: 100px;
+  cursor: pointer;
+}
+
+.subscription-icon {
+  display:inline-block;
+  width: 30;
+  height: 40px;
+  margin-top: 10px;
+  margin-left: 25px;
+
+
+}
+
+.subscription-text {
+  display: inline-block;
+  vertical-align: top;
+  font-size: 20px;
+  width: 500;
+  margin-left: 20px;
+}
+
+.icon-4 {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: left;
+  margin-right: 148px;
+  cursor: pointer;
+}
+
+.library-icon {
+  display:inline-block;
+  width: 30;
+  height: 40px;
+  margin-top: 10px;
+  margin-left: 25px;
+
+
+}
+
+.library-text {
+  display: inline-block;
+  vertical-align: top;
+  font-size: 20px;
+  width: 500;
+  margin-left: 20px;
+}
+
+.icon-5 {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: left;
+  margin-right: 153px;
+  cursor: pointer;
+}
+
+.history-icon {
+  display:inline-block;
+  width: 30;
+  height: 40px;
+  margin-top: 10px;
+  margin-left: 28px;
+
+
+}
+
+.history-text {
+  display: inline-block;
+  vertical-align: top;
+  font-size: 20px;
+  width: 500;
+  margin-left: 20px;
+}
+
+.icon-6 {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: left;
+  margin-right: 107px;
+  cursor: pointer;
+  
+}
+
+.my-videos-icon {
+  display:inline-block;
+  width: 30;
+  height: 40px;
+  margin-top: 10px;
+  margin-left: 23px;
+
+
+}
+
+.my-videos-text {
+  display: inline-block;
+  vertical-align: top;
+  font-size: 20px;
+  width: 500;
+  margin-left: 20px;
+  white-space: nowrap;
+}
+
+.icon-7 {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: left;
+  margin-right: 120px;
+  cursor: pointer;
+  
+}
+
+.watch-later-icon {
+  display:inline-block;
+  width: 30;
+  height: 40px;
+  margin-top: 10px;
+  margin-left: 25px;
+
+
+}
+
+.watch-later-text {
+  display: inline-block;
+  vertical-align: top;
+  font-size: 20px;
+  width: 500;
+  margin-left: 20px;
+  white-space: nowrap;
+}
+
+.icon-8 {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: left;
+  margin-right: 97px;
+  cursor: pointer;
+  
+}
+
+.likes-icon {
+  display:inline-block;
+  width: 30;
+  height: 40px;
+  margin-top: 10px;
+  margin-left: 25px;
+
+
+}
+
+.likes-text {
+  display: inline-block;
+  vertical-align: top;
+  font-size: 20px;
+  width: 500;
+  margin-left: 20px;
+  white-space: nowrap;
+}
+
+
+
+
+
+
+

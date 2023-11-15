@@ -1,0 +1,150 @@
+
+
+.photo-thumbnail {
+  width: 320px;
+  height: 190px;
+  object-fit: cover;
+  border-radius: 6px;
+  cursor: pointer;
+  position: relative;
+}
+
+.video-time {
+  background-color: black;
+  color: white;
+  padding-left: 5px;
+  padding-right: 5px;
+  border: none;
+  height: 20px;
+  border-radius: 4px;
+  position: absolute;
+  z-index: 30px;
+  margin-top: 165px;
+  margin-left: -42px;
+  
+ 
+}
+
+
+.thumbnail-photo {
+  margin-bottom: 15px;
+}
+
+.channel-pic {
+ width: 40px;
+ height: 36px;
+ object-fit: cover;
+ border-radius: 50px;
+ margin-bottom: 20px;
+}
+
+.channel-picture {
+display: inline-block;
+width: 45px;
+vertical-align: top;
+margin-top: 2px;
+
+}
+
+.video-description {
+display: inline-block;
+
+
+}
+
+.video-title {
+  font-family: 'Roboto', sans-serif;
+  font-size: 18px;
+  width: 290px;
+  font-weight: 700;
+  color: black;
+  margin-top: 0;
+  margin-bottom: 0;
+  cursor: pointer;
+  
+
+}
+
+.channel-name {
+  font-family: 'Roboto', sans-serif;
+  font-size: 15px;
+  font-weight: 500;
+  color:  rgb(109, 108, 108);
+  margin-top: 7px;
+  margin-bottom:0px;
+}
+
+.views {
+  font-family: 'Roboto', sans-serif;
+  font-size: 14px;
+  color: rgb(97, 96, 96);
+  font-weight: 700;
+  margin-top: 5px;
+}
+
+.video-preview {
+  display: inline-block;
+  vertical-align: top;
+
+}
+
+.video-title-2 {
+  font-family: 'Roboto', sans-serif;
+  font-size: 17px;
+  width: 290px;
+  font-weight: 700;
+  color: black;
+  margin-top: 0;
+  margin-bottom: 0;
+  cursor: pointer;
+}
+
+.channel-pic-2{
+  width: 41px;
+ height: 39px;
+ object-fit: cover;
+ border-radius: 52px;
+ margin-bottom: 20px;
+}
+
+.video-preview-2 {
+  display: inline-block;
+ 
+}
+
+.video-preview-3 {
+  display: inline-block;
+  vertical-align: top;
+  margin-top: 1px;
+}
+
+.video-preview-4 {
+  display: inline-block;
+  vertical-align: top;
+  margin-top: 1px;
+  margin-left: 1px;
+}
+
+.video-preview-5 {
+  display: inline-block;
+  vertical-align: top;
+  margin-top: 1px;
+  margin-left: 10px;
+  
+}
+
+.video-preview-6 {
+  display: inline-block;
+  vertical-align: top;
+  margin-top: 0px;
+  margin-left: 10px;
+  
+}
+
+
+
+
+
+
+
+
